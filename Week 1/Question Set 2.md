@@ -1,15 +1,20 @@
 <br> Convert the following binary into decimal </br>
 <br> 11011010 </br>
 ```
+218
 ```
 <br>11111100 </br>
 ```
+252
 ```
 <br>11000010 </br>
 ```
+194
 ```
+
 <br>10101010 </br>
 ```
+170
 ```
 <br>11001100 </br>
 ```
