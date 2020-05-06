@@ -24,4 +24,11 @@ It is 2.6 GB.
 <br><strong> Question 4 </strong></br>
 <br> <strong> You transfer 25MB of data (Amount of data) in 2 minutes (Time) across the Internet. What is the speed (S) of the transfer in KB/s? The following formula will help you:  S = A/T. </br> </strong>
 
+```
+2*60 = 120 
+25 MB ÷ 120 seconds
+25 ÷ 120 = 0.20833 MB
+0.2083 x 1000 = 208.3
+208.3 KB
+```
 
