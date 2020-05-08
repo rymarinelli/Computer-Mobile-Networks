@@ -4,9 +4,11 @@
 <li> Say Hello to your friend </li>
 <li> Wave to confirm communication </li>
 <li> Shake to end greeting </li>
+
+
 <li> Person says hello </li>
 <li> Person Waves </li>
-<li> You ignore them since you do not know them <li>
+<li> You ignore them since you do not know them </li>
 <li> Avoid communication </li> 
 
 
