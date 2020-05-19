@@ -1,0 +1,12 @@
+C:\Users\ryanm\Desktop>java UDPClient.java
+test
+FROM SERVER:  TEST 
+
+
+C:\Users\ryanm\Desktop>java UDPServer.java
+Server Connected
+test                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+Packet Sent
+Server Connected
+Data confirmation from client                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+Packet Sent
